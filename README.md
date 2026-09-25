@@ -18,7 +18,7 @@
     <a href="https://wa.me/7080821125">
       <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
     </a>
-    <a href="https://adigun.imperiainsight.ng">
+    <a href="https://micheal.com.ng">
       <img src="https://img.shields.io/badge/Portfolio-1E3A8A?style=for-the-badge&logo=google-chrome&logoColor=white" />
     </a>
   </div>
@@ -55,16 +55,16 @@ Scroll-stopping Reels, TikToks, and ad creatives that tell your story and drive 
 
 ## Portfolio Highlights
 
-### [Royal Insight Services](https://imperiainsight.ng)
+### [Royal Insight Services](https://royalinsights.ng)
 *Brand Strategy & Web Design*  
 Directed full visual rebranding across digital and print, resulting in 60% growth in engagement and stronger media presence.
 
-### [24Million Originals](https://24millioriginals.com)
+### [Servicerite Cosmetics](https://serviceritecosmetics.ng)
 *E-commerce Website*  
 Short-form video + Meta ads strategy delivering 220% ROAS and 94 new customers in 60 days.
 
-### [ISOT Projects](https://isotprojects.com)
-*Construction Company Website*  
+### [ISOT Projects](https://orbitmate.co)
+*Markketing Company Website*  
 WordPress redesign with SEO optimization → 120% increase in organic traffic within 4 months.
 
 ## Let's Work Together
@@ -78,7 +78,7 @@ I'm open to discussing new projects, partnerships, and opportunities. Whether yo
   <a href="https://wa.me/7080821125">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
-  <a href="https://adigun.imperiainsight.ng">
+  <a href="https://micheal.com.ng">
     <img src="https://img.shields.io/badge/View_Portfolio-1E3A8A?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
   
