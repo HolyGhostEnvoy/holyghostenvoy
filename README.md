@@ -63,8 +63,8 @@ Directed full visual rebranding across digital and print, resulting in 60% growt
 *E-commerce Website*  
 Short-form video + Meta ads strategy delivering 220% ROAS and 94 new customers in 60 days.
 
-### [ISOT Projects](https://orbitmate.co)
-*Markketing Company Website*  
+### [Orbit Mate](https://orbitmate.co)
+*Marketing Company Website*  
 WordPress redesign with SEO optimization → 120% increase in organic traffic within 4 months.
 
 ## Let's Work Together
